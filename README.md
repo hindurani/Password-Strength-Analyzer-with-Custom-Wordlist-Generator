@@ -38,10 +38,10 @@ Direct password check:
 python password_strength_checker.py --check "your_password_here"
 
 Generate password:
-# Default length (16 characters)
+## Default length (16 characters)
 python password_strength_checker.py --generate
 
-# Custom length
+## Custom length
 python password_strength_checker.py --generate --length 20
 
 ## Command Line Arguments
