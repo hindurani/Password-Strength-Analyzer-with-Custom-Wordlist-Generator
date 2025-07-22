@@ -51,7 +51,7 @@ python password_strength_checker.py --generate --length 20
 --length N: Specify length for generated password (default: 16)
 
 ## Features in Detail:
-# Password Strength Criteria
+## Password Strength Criteria
 Minimum length: 12 characters
 Character complexity:
 Uppercase letters
