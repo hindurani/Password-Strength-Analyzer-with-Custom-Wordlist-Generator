@@ -1,4 +1,4 @@
-# password
+# Password Strength Analyzer with Custom Wordlist Generator
 A comprehensive password strength checking tool with both GUI and CLI interfaces. This application helps users create and validate secure passwords using advanced strength checking algorithms.
 
 ## Features:
